@@ -11,6 +11,6 @@ namespace ViewClass
 {
     public class SomeOther : SomeClass
     {
-        public override bool Test() => false;
+        public override bool Test() => true;
     }
 }
